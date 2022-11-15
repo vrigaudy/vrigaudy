@@ -4,6 +4,7 @@
 
 # Projects :
 
+- cub3d : [![vrigaudy's 42 cub3d Score](https://badge42.vercel.app/api/v2/claipdddh00210fl5a042i56i/project/2879896)](https://github.com/JaeSeoKim/badge42)
 - CPP Moudule08 : [![vrigaudy's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/claipdddh00210fl5a042i56i/project/2836237)](https://github.com/JaeSeoKim/badge42)
 - CPP Moudule07 : [![vrigaudy's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/claipdddh00210fl5a042i56i/project/2836237)](https://github.com/JaeSeoKim/badge42)
 - CPP Moudule06 : [![vrigaudy's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/claipdddh00210fl5a042i56i/project/2836237)](https://github.com/JaeSeoKim/badge42) 
